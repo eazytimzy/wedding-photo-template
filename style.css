@@ -324,6 +324,11 @@ input[type=text],input[type=email], select, textarea {
         max-width: 100%;
         z-index: 100;
       }
+    #maxi{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
   }
   
   
